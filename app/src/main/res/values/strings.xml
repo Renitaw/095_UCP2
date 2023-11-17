@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">095UCP2</string>
+    <string name="nmmhs">Nama Mahasiswa</string>
+    <string name="studentID">NIM</string>
+    <string name="knsntrs">Konsentrasi</string>
+    <string name="jdl">Judul Skripsi</string>
+</resources>
